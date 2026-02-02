@@ -1,4 +1,6 @@
 # Editor directories and files
+# Compiled files
 .vscode/*
 !.vscode/extensions.json
 *.exe
+*.o
